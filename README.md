@@ -7,3 +7,6 @@
 pip install PyPDF2
 ```
 
+**ตัวอย่างหารใช้งาน**
+1. [Certificate Splite](./pdf-splites/)
+
